@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TP2 init debug</string>
+    <string name="day_of_week">Jour de la semaine</string>
+    <string name="next_day">Prochain jour</string>
+</resources>

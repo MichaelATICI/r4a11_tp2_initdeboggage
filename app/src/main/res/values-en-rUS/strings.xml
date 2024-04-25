@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP2 init debug</string>
+    <string name="day_of_week">day of week</string>
+    <string name="next_day">next day</string>
+</resources>
